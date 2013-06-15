@@ -27,9 +27,10 @@ function cgc_login_logo() { ?>
         body.login div#login h1 {
             display:block;
             text-align: center;
-            margin: 0 auto 1.5em auto!important;
+            margin: 0 auto 0.8em auto!important;
             font-family: "BebasNeueRegular", sans-serif;
             line-height: 1;
+            font-size: 48px;
         }
         body.login div#login h1 a {
             height: auto;
