@@ -39,8 +39,8 @@ function cgc_login_logo() { ?>
             color: #fff;
             text-decoration: none;
             padding-bottom: 0!important;
-            background-image: none;
-            text-indent: 0;
+            background-image: url('logo.png');
+            text-indent: 60px;
             padding-bottom: 30px;
         }
         #loginform, #lostpasswordform {
