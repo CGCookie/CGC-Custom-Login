@@ -42,7 +42,7 @@ function cgc_login_logo() { ?>
             padding-bottom: 0!important;
             background-image: url('wp-content/plugins/cgc-custom-login/logo.png');
             background-size: auto;
-            background-position: left top;
+            background-position: 24% top;
             text-indent: 0px;
             padding-bottom: 30px;
         }
