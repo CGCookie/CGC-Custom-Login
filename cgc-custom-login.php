@@ -39,7 +39,7 @@ function cgc_login_logo() { ?>
             color: #fff;
             text-decoration: none;
             padding-bottom: 0!important;
-            background-image: url('logo.png');
+            background-image: url('wp-content/plugins/cgc-custom-login/logo.png');
             text-indent: 60px;
             padding-bottom: 30px;
         }
