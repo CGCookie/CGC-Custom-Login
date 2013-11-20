@@ -33,14 +33,17 @@ function cgc_login_logo() { ?>
             font-size: 48px;
         }
         body.login div#login h1 a {
-            height: auto;
+            height: 60px;
+            line-height: 60px;
             width: auto;
             margin: 0;
             color: #fff;
             text-decoration: none;
             padding-bottom: 0!important;
-            background-image: none;
-            text-indent: 0;
+            background-image: url('wp-content/plugins/cgc-custom-login/logo.png');
+            background-size: auto;
+            background-position: 15% top;
+            text-indent: 0px;
             padding-bottom: 30px;
         }
         #loginform, #lostpasswordform {
